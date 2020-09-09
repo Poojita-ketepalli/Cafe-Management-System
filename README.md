@@ -12,3 +12,9 @@
   5.Reset
   
   6.Quit
+  
+ ### Outputs
+ 
+![](outputs/image1.png)
+![](outputs/image2.png)
+![](outputs/image3.png)
